@@ -1,4 +1,3 @@
-# Task 1: Rock, Paper and Scissor Game
-Develop a game where player and computer both will gave their responsees and rock against scissor, scissor against paper, paper against rock will win else losses.
-
-To run - python rock-paper-scissor.py
+# Task 2: Password Generator
+Develop a program that generator strong password consisting of minimum 1 Capital letter, 1 small letter, 1 digit and 1 special character.
+To run - python password-generator.py
